@@ -4,11 +4,16 @@ Github colab practice for Gen 26 JS
 
 1. Alfredo
 2. Marin
+2. Marin
 3. Lenny
 4. Eddie
 5. Rob
 6. Rodrigo
 7. Abraham
-8.Mayra
+8. Mayra
 9. Nayeli
+<<<<<<< HEAD
 10. Wilson
+=======
+10. LaloMiranda
+>>>>>>> 8680ba41bee952c5ffdce66826d9c7aad93a7fb5
