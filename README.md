@@ -10,9 +10,6 @@ Github colab practice for Gen 26 JS
 5. Rob
 6. Rodrigo
 7. Abraham
-<<<<<<< HEAD
-
-=======
 8.Mayra
-9.Wilson
->>>>>>> 2b92d58b2bfa219e10e62897969e7d2a709a3b91
+9. Nayeli
+10. Wilson
