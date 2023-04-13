@@ -4,7 +4,6 @@ Github colab practice for Gen 26 JS
 
 1. Alfredo
 2. Marin
-2. Marin
 3. Lenny
 4. Eddie
 5. Rob
@@ -13,3 +12,4 @@ Github colab practice for Gen 26 JS
 8. Mayra
 9. Nayeli
 10. LaloMiranda
+11. Wilson
