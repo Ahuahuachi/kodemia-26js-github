@@ -13,3 +13,4 @@ Github colab practice for Gen 26 JS
 8. Mayra
 9. Nayeli
 10. LaloMiranda
+11. Wilson
