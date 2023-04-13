@@ -9,4 +9,5 @@ Github colab practice for Gen 26 JS
 3. Lenny
 4. Eddie
 5. Rob
-6. LaloMiranda
+6. Rodrigo
+7. LaloMiranda
