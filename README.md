@@ -8,4 +8,8 @@ Github colab practice for Gen 26 JS
 4. Eddie
 5. Rob
 6. Rodrigo
+<<<<<<< HEAD
 7. Annie
+=======
+7. Abraham
+>>>>>>> 0db3bade8829adb6dc111fdbfc76701b4902a1fc
