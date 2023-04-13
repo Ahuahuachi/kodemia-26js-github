@@ -3,5 +3,6 @@
 Github colab practice for Gen 26 JS
 
 1. Alfredo
-2.-Marin
-3. Robn
+2. Marin
+3. Lenny
+4. Rob
